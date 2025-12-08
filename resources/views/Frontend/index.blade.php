@@ -31,7 +31,7 @@
   </section>
 
   <!-- Trainers Section -->
-  <section id="trainers-index" class="section trainers-index">
+  <section id="trainers-index" cslass="section trainers-index">
     <!-- trainers content -->
   </section>
 @endsection
