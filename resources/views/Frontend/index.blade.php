@@ -5,7 +5,7 @@
 @section('content')
   <!-- Hero Section -->
   <section id="hero" class="hero section dark-background">
-    <img src="{{ asset('frontend/img/hero-bg.jpg') }}" alt="" data-aos="fade-in">
+    <img src="{{ asset('assests/img/hero-bg.jpg') }}" alt="" data-aos="fade-in">
     <div class="container">
       <h2 data-aos="fade-up" data-aos-delay="100">Learning Today,<br>Leading Tomorrow</h2>
       <p data-aos="fade-up" data-aos-delay="200">We are team of talented designers making websites with Bootstrap</p>
